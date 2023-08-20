@@ -4,7 +4,7 @@ Create a React app that mimics a simple calculator
 
 ## Overview
 
-- Please use `create-react-app` to generate your project
+- Please use `vite` to generate your project
 - Break your application down to necessary components
 
 ## UI
