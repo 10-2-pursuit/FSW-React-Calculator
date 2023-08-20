@@ -1,4 +1,4 @@
-# React Calculator
+# React Calculator Group Challenge
 
 Create a React app that mimics a simple calculator
 
@@ -66,8 +66,6 @@ You must implement all of the user stories and acceptance criteria below. After 
 
 ### Code Quality Rubric
 
-- Use JSX to create components
-- Use create-react-app to build React applications
 - Respond to user input to update the views in a React app
 - Use state to build stateful React applications
 - Use Flexbox and/or Grid to lay out a page
